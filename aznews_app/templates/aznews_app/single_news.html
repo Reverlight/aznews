@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block head %}
+
+
+{% endblock %}
+{% block body %}
+
+    {% include 'aznews_app/inc/header.html' %}
+
+
+    <section class="blog_area single-post-area section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 posts-list">
+                    <div class="single-post">
+                        <div class="feature-img">
+                            <img class="img-fluid" src="{{ news_item.preview_or_default }} " alt="">
+                        </div>
+                        <div class="blog_details">
+                            <h2>{{ news_item.title }}
+                            </h2>
+                            <ul class="blog-info-link mt-3 mb-4">
+                                <li><a href="#"><i class="fa fa-user"></i> {{ news_item.category.title }}</a></li>
+                                <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
+                            </ul>
+
+                            {{ news_item.content|safe }}
+
+                        </div>
+                    </div>
+
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!--================ Blog Area end =================-->
+
+
+
+
+{% endblock %}

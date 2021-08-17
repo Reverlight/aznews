@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block body %}
+
+    {% include 'aznews_app/inc/header.html' %}
+
+    <main>
+
+        {% include 'aznews_app/inc/trending_area.html' %}
+
+        {% include 'aznews_app/inc/recent_articles.html' %}
+
+    </main>
+
+
+    <!-- JS here -->
+
+{% endblock %}

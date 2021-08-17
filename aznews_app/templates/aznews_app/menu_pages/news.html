@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{%block body%}
+
+
+
+
+    {% include 'aznews_app/inc/header.html' %}
+
+
+    <div class="container mt-3 mb-3">
+
+    <div style="font-size: 30px" class="news-cards d-flex flex-column align-items-center ">
+        {% for news_item in page_obj%}
+
+            <div class="card mb-20" style="width: 45%; " >
+                <img class="card-img-top" src="{{ news_item.preview_or_default }}" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">{{ news_item.title }}|{{ news_item.category.title }}</h5>
+                    <p class="card-text">{{ news_item.content|striptags|truncatewords_html:35 }}</p>
+                    <a href="{{ news_item.get_absolute_url }}" class="btn btn-primary">Read Full</a>
+                </div>
+            </div>
+
+        {% endfor %}
+
+
+
+    </div>
+
+    </div>
+
+    {% include 'aznews_app/inc/pagination.html' %}
+
+
+
+
+    <!-- JS here -->
+
+
+{%endblock%}

@@ -1,0 +1,110 @@
+{% load static %}
+{% load trending_area %}
+{% load category_color %}
+<div class="trending-area fix">
+    <div class="container">
+        <div class="trending-main">
+            <!-- Trending Tittle -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="trending-tittle">
+                        <strong>Popular</strong>
+                        <!-- <p>Rem ipsum dolor sit amet, consectetur adipisicing elit.</p> -->
+                        <div class="trending-animated">
+                            <ul id="js-news" class="js-hidden">
+                                {% with first=most_popular_news.0 %}
+                                    <li class="news-item">{{ first.title|truncatewords:6 }}</li>
+                                {% endwith %}
+                                {% with second=most_popular_news.1 %}
+                                    <li class="news-item">{{ second.title|truncatewords:6 }}</li>
+                                {% endwith %}
+                                {% with third=most_popular_news.2 %}
+                                    <li class="news-item">{{ third.title|truncatewords:6 }}</li>
+                                {% endwith %}
+
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8">
+                    <!-- Trending Top -->
+                    {% with most_popular_news.0 as first %}
+
+                        <div class="trending-top mb-30">
+                            <div class="trend-top-img">
+                                {% if first.preview %}
+                                    <img src="{{ first.preview.url }}" height="350px" alt="">
+                                {% else %}
+                                    <img src="{% static 'img/gallery/4.jpg' %}" height="350px" alt="">
+                                {% endif %}
+
+
+
+                                <div class="trend-top-cap">
+                                    <span>{{ first.category.title }}</span>
+                                    <h2><a href="{{ first.get_absolute_url }}">{{ first.title }}</a>
+                                    </h2>
+                                </div>
+                            </div>
+                        </div>
+                    {% endwith %}
+                    <!-- Trending Bottom -->
+                    <div class="trending-bottom">
+                        <div class="row">
+                            {% get_query_set_from_to most_popular_news 1 4 as items %}
+
+                            {% for item in items %}
+
+                                <div class="col-lg-4">
+                                    <div class="single-bottom mb-35">
+                                        <div class="trend-bottom-img mb-30">
+                                            <!--                                        <img src="{% static 'img/trending/trending_bottom1.jpg' %}" alt="">-->
+                                            {% if item.preview %}
+                                                <img src="{{ item.preview.url }}" height="200px" alt="">
+                                            {% else %}
+                                                <img src="{% static 'img/gallery/4.jpg' %}" height="200px" alt="">
+                                            {% endif %}
+                                        </div>
+                                        <div class="trend-bottom-cap">
+                                            <span class="{% get_category_color item.category.title %}">{{ item.category.title }}</span>
+                                            <h4><a href="{{ item.get_absolute_url }}">{{ item.title }}</a>
+                                            </h4>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            {% endfor %}
+
+                        </div>
+                    </div>
+                </div>
+                <!-- Riht content -->
+                <div class="col-lg-4">
+                    {% get_query_set_from_to most_popular_news 4 9 as items %}
+
+                    {% for item in items %}
+                        <div class="trand-right-single d-flex">
+                            <div class="trand-right-img">
+                                {% if item.preview %}
+                                    <img src="{{ item.preview.url }}" width="150px" alt="">
+                                {% else %}
+                                    <img src="{% static 'img/gallery/4.jpg' %}" width="150px" alt="">
+                                {% endif %}
+
+                                <!--                                <img src="{% static 'img/trending/right1.jpg' %}" alt="">-->
+                            </div>
+                            <div class="trand-right-cap">
+                                <span class="{% get_category_color item.category.title %}">{{ item.category.title }}</span>
+                                <h4><a href="{{ item.get_absolute_url }}">{{ item.title }}</a></h4>
+                            </div>
+                        </div>
+                    {% endfor %}
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
