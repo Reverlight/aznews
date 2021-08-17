@@ -1,0 +1,186 @@
+[
+  {
+    "model":"aznews_app.news",
+    "pk":2,
+    "fields":{
+      "title":"Former England striker Paul Mariner dies aged 68",
+      "content":"<p><strong>Former England striker Paul Mariner, who won the FA Cup and Uefa Cup with Ipswich Town, has died, aged 68.</strong></p>\r\n\r\n<p>Mariner began his league career at Plymouth Argyle, who signed him from non-league Chorley in 1973, and also played for Arsenal and Portsmouth.</p>\r\n\r\n<p>He also had spells as manager of Plymouth and Major League Soccer side Toronto FC.</p>\r\n\r\n<p>Lancashire-born Mariner made 35 appearances for England between 1977 and 1985, scoring 13 goals.</p>",
+      "category":1,
+      "preview":"previews/2021/07/10/_119337155_gettyimages-153201899.jpg",
+      "created_at":"2021-07-10",
+      "updated_at":"2021-07-10",
+      "views":15,
+      "slug":"former-england-striker-paul-mariner-dies-aged-68"
+    }
+  },
+  {
+    "model":"aznews_app.news",
+    "pk":3,
+    "fields":{
+      "title":"Novak Djokovic to face Matteo Berrettini in men's final",
+      "content":"<p><strong>Defending champion Novak Djokovic needed all of his nous and quality to edge past Denis Shapovalov and set up a Wimbledon men&#39;s final with Italy&#39;s Matteo Berrettini on Sunday.</strong></p>\r\n\r\n<p>Canada&#39;s Shapovalov, 22, played superbly for the most part, only for Djokovic to claim the key moments on his way to a 7-6 (7-3) 7-5 7-5 win.</p>\r\n\r\n<p>Berrettini earned a 6-3 6-0 6-7 (3-7) 6-4 win over Poland&#39;s Hubert Hurkacz.</p>\r\n\r\n<p>The seventh seed is the first Italian to reach the men&#39;s singles final.</p>\r\n\r\n<p>The Queen&#39;s champion used his big forehand and serve to good effect to reach his first Grand Slam final, with Sunday&#39;s showpiece taking place just hours before his nation take on England in football&#39;s Euro 2020 final.</p>\r\n\r\n<p>The 25-year-old is the first Italian man to reach a Grand Slam final since 1976.</p>\r\n\r\n<p>&quot;I have no words, really,&quot; Berrettini said. &quot;I need a couple of hours to understand what happened.</p>\r\n\r\n<p>&quot;I think I never dreamed about this because it was too much for a dream.&quot;</p>",
+      "category":1,
+      "preview":"previews/2021/07/10/_119334673_djokovic.jpg",
+      "created_at":"2021-07-10",
+      "updated_at":"2021-07-20",
+      "views":356,
+      "slug":"novak-djokovic-to-face-matteo-berrettini-in-mens-final"
+    }
+  },
+  {
+    "model":"aznews_app.news",
+    "pk":4,
+    "fields":{
+      "title":"The art of the big tournament montage",
+      "content":"<p><strong>There was a B-side to Euro &#39;96.</strong></p>\r\n\r\n<p>While Three Lions backed England&#39;s giddy run to the semi-finals, another song soundtracked the comedown.</p>\r\n\r\n<p>It was picked by TV producers Craig South and Jonathan Sides.</p>\r\n\r\n<p>Tasked with putting together a montage of England&#39;s tournament, the pair chose Cast&#39;s Walkaway, a Britpop lament for lost causes and bitter ends, for the closing music.</p>\r\n\r\n<p>Their work doesn&#39;t exist anywhere online.</p>\r\n\r\n<p>But for a generation of England fans, that riff instantly brings to mind grey shirts on a dark night, trudging away from what might have been.</p>\r\n\r\n<p>In 2018, some of those same images were put to a new song. For a new set of fans, to tell a new story.</p>\r\n\r\n<p>Before England&#39;s World Cup quarter-final against Sweden, Gary Lineker introduced a two-minute film.</p>\r\n\r\n<p>Over the sweeping strings of The National&#39;s &#39;England&#39;, it brought together the team&#39;s miserable shootout history and their occasional moments of glory with their success over Colombia four days before.</p>\r\n\r\n<p>It ended with the music fading out and Gareth Southgate, 1996&#39;s fall guy, 2018&#39;s head coach, bellowing into the stands with joy.</p>\r\n\r\n<p>It struck a chord.</p>\r\n\r\n<p>&quot;Easily one of the best things I&#39;ve ever seen. Goosebumps,&quot; an England fan wrote&nbsp;<a href=\"https://twitter.com/josefbone/status/1015986201415815170?lang=en\" title=\"\">as he posted the film online.&nbsp;</a></p>\r\n\r\n<p>And Twitter agreed. The video in that post has been viewed 2.3 million times and retweeted more than 22,000 times.</p>\r\n\r\n<p>&quot;Montages are massive for us,&quot; said Mark Woodward, BBC Football&#39;s creative lead.</p>\r\n\r\n<p>&quot;Without wishing to sound too pretentious, all TV is about creating something in the viewer.</p>\r\n\r\n<p>&quot;Montages are there to create emotion. They get that visceral anticipation going, but they also bring you back to the past, to where you were when these great moments happened, the places you were, the people you were with, how the country felt.&quot;</p>\r\n\r\n<p>Creating them used to be a simpler, if more stressful job.</p>\r\n\r\n<p>Often up against deadlines, producers would physically cut tape together, their creativity limited by a handful of camera angles and whatever music library their employers had built up.</p>\r\n\r\n<p>Now there are more than 40 cameras tracking the action at each Euro 2020 match, serving up footage in slow motion, super slow-motion and ultra slow-motion. A host of effects and filters can be added in the edit suite.</p>\r\n\r\n<p>As the production values have risen, the concepts have become more ambitious.</p>\r\n\r\n<p>Before Wales&#39; opening match against Switzerland on BBC One, goalkeeper and part-time artist Owain Fon Williams painted scenes of Euro 2016 that came to life.</p>\r\n\r\n<p>Scotland&#39;s arrival at a first international tournament in 23 years was greeted with a fly-through of the country and its football history, from the Glenfinnan viaduct to David Marshall&#39;s shootout save.</p>\r\n\r\n<p><a href=\"https://www.bbc.com/complaints/complain-online\">Report</a></p>\r\n\r\n<p>But one thing is still more important than anything: the music.</p>\r\n\r\n<p>&quot;I don&#39;t like to do the expected,&quot; explained Woodward.</p>\r\n\r\n<p>&quot;The danger with montages is thinking one size fits all. You might have a new single, something by Cardi B say. It might be great, current and in the charts.</p>\r\n\r\n<p>&quot;But you really have to drill down into what you want to say and what you want the music to do.</p>\r\n\r\n<p>&quot;I have used classical music, Polish folk bands, Arabian Oud music before, the more eclectic you can be the better.</p>\r\n\r\n<p>&quot;You can get inspiration from anywhere, it might be a snippet of a track on a documentary, something in the background of a film, anywhere.&quot;</p>\r\n\r\n<p>Kevin Evans found it in John Lewis.</p>\r\n\r\n<p>Evans, Woodward&#39;s opposite number at BT Sport, was shopping one day when something caught his ear. He ran to the store&#39;s speaker to&nbsp;<a href=\"https://www.shazam.com/gb\" title=\"\">Shazam</a>&nbsp;the intriguing track.</p>\r\n\r\n<p>But, for a special occasion, both Evans and Woodward like to bring more than a recording to a montage.</p>\r\n\r\n<p>Biffy Clyro reworked a track called This is the One for BBC&#39;s Scotland campaign opener. And BT Sport marked the end of this Champions League with&nbsp;<a href=\"https://www.youtube.com/watch?v=vud-FDu0nnI\" title=\"\">an epic four-minute film featuring indie pop band London Grammar.</a></p>\r\n\r\n<p>&quot;The biggest thing for me is music, that is the biggest element, that is the hook, that is where you get the hairs on the back of the neck,&quot; said Evans.</p>",
+      "category":1,
+      "preview":"previews/2021/07/10/_119057336_londongrammar.jpg",
+      "created_at":"2021-07-10",
+      "updated_at":"2021-07-16",
+      "views":2,
+      "slug":"the-art-of-the-big-tournament-montage"
+    }
+  },
+  {
+    "model":"aznews_app.news",
+    "pk":5,
+    "fields":{
+      "title":"Biden signs new order cracking down on Big Tech",
+      "content":"<p><strong>President Joe Biden has signed an executive order aimed at cracking down on big tech firms and promoting competition.</strong></p>\r\n\r\n<p>The move points to Mr Biden&#39;s desire for tougher scrutiny of Big Tech, which the administration has accused of &quot;undermining competition&quot;.</p>\r\n\r\n<p>&quot;Capitalism without competition isn&#39;t capitalism. It&#39;s exploitation,&quot; Mr Biden said at Friday&#39;s signing event.</p>\r\n\r\n<p>The order includes 72 actions and recommendations involving ten agencies.</p>\r\n\r\n<p>It suggests that problems have arisen because of large tech firms collecting too much personal information, buying up potential competitors and competing unfairly with small businesses.</p>\r\n\r\n<p>Several recommendations it sets out include:</p>\r\n\r\n<ul>\r\n\t<li>Greater scrutiny of mergers in the tech sector</li>\r\n\t<li>New rules to be set out by the Federal Trade Commission (FTC) on data collection</li>\r\n\t<li>Barring unfair methods of competition on internet marketplaces.</li>\r\n</ul>\r\n\r\n<p>The Biden administration is also targeting a number of other sectors with the order.</p>\r\n\r\n<p>It encourages other government agencies to take action to improve competition across healthcare, travel and agriculture.</p>\r\n\r\n<p>Once fully implemented, it would allow hearing aids to be sold over the counter, for example, as well as the ban of early exit fees from internet contracts. It also intends to make it easier for consumers to claim refunds from airlines.&quot;For decades, corporate consolidation has been accelerating,&quot; the fact sheet released by the White House says, describing the order as &quot;a whole-of-government effort to promote competition in the American economy&quot;.</p>\r\n\r\n<p>Mr Biden said that the order seeks to limit the use of &quot;non-compete agreements&quot; as a condition of getting a job, which he claimed can make it harder for people to change jobs and therefore limits wages.</p>\r\n\r\n<p>The executive order alone, however, does not mean these recommendations will come into force immediately.</p>\r\n\r\n<p>The government agencies responsible will need to implement the changes, while some elements could be subject to court challenges.</p>",
+      "category":9,
+      "preview":"previews/2021/07/10/_119331565_gettyimages-1327691434.jpg",
+      "created_at":"2021-07-10",
+      "updated_at":"2021-07-16",
+      "views":158,
+      "slug":"biden-signs-new-order-cracking-down-on-big-tech"
+    }
+  },
+  {
+    "model":"aznews_app.news",
+    "pk":6,
+    "fields":{
+      "title":"'My music is always there when I need it'",
+      "content":"<p><strong>Paul Holland has seen some upheavals in his life over the past year, but his music collection of vinyl albums and CDs has helped him to get through tough times.</strong></p>\r\n\r\n<p>&quot;It&#39;s been massively important,&quot; the 35-year-old from Bracknell in Berkshire told the BBC.</p>\r\n\r\n<p>&quot;It&#39;s always there, always accessible when you need it. That&#39;s why I like having physical copies.&quot;</p>\r\n\r\n<p>Paul&#39;s collection actually straddles two continents at the moment - he has about 100 albums in the UK, but the rest are in Portland, Oregon.</p>\r\n\r\n<p>That&#39;s because, after living in the US since 2015, he moved back last year, at the height of the pandemic, following the breakdown of his marriage to an American woman.</p>\r\n\r\n<p>&quot;We&#39;re still in touch, but it didn&#39;t work out,&quot; he says, adding that his ex-wife is still taking good care of his records.</p>\r\n\r\n<p>Paul is one of many BBC News website readers who got in touch with us following the news that&nbsp;<a href=\"https://www.bbc.co.uk/news/business-57763301\">supermarket giant Sainsbury&#39;s has decided to stop selling CDs and DVDs</a>.</p>\r\n\r\n<p>Although streaming has replaced buying records for many people, others would never part with their collections and are still adding to them whenever they can.</p>\r\n\r\n<p>&quot;I can&#39;t imagine a world where media is not in your hands and not yours. Films, albums and TV shows are removed from streaming services all the time,&quot; says Paul.</p>\r\n\r\n<p>He has a varied selection of albums, including Otis Redding and David Bowie, but also &quot;a lot of rock and heavy metal&quot;.</p>\r\n\r\n<p>His favourite album is Black Sabbath&#39;s first: &quot;It&#39;s got the heavy bits if you want to shake your head, but also quieter songs as well - there&#39;s a bit of light and shade.&quot;</p>",
+      "category":9,
+      "preview":"previews/2021/07/10/_119329482_paulholland.jpg",
+      "created_at":"2021-07-10",
+      "updated_at":"2021-07-10",
+      "views":95,
+      "slug":"my-music-is-always-there-when-i-need-it"
+    }
+  },
+  {
+    "model":"aznews_app.news",
+    "pk":7,
+    "fields":{
+      "title":"Covid origins: Scientists weigh up evidence over virus's ori",
+      "content":"<p><strong>Amid the misery of a pandemic that has claimed at least four million lives, the scientific search for its origins has itself become toxic.</strong></p>\r\n\r\n<p>While it is now hideously ubiquitous, Sars-Cov-2 is still only an 18-month-old disease. And the search for its start was officially set in motion in 2020 by a World Health Organization investigative team.</p>\r\n\r\n<p>Questions over its conclusions have escalated into a heavily politicised feud. Some research scientists, who have tried to unpick the pandemic&#39;s origins, have been accused of conspiracy and cover-up - based on no evidence.</p>\r\n\r\n<p>Now, 21 researchers - all seeking to understand how a virus that originated in bats transferred into humans - aim to &quot;set the record straight&quot; by publishing&nbsp;<a href=\"https://zenodo.org/record/5075888#.YOcVOi1Q3xh\">their summary of the scientific evidence about the pandemic&#39;s beginning.</a></p>\r\n\r\n<p>&quot;It&#39;s not true that we don&#39;t know where it came from - we just don&#39;t know how it got into humans,&quot; says Glasgow University virologist Prof David Robertson.</p>\r\n\r\n<p>It is widely accepted that an ancestor of the virus was originally a disease circulating harmlessly in wild bats. But it is vital to discover how, where and exactly when that first made its way into a person to prevent a similar future outbreak.</p>\r\n\r\n<p>There is no definitive piece of evidence - no Covid-positive bat or a confirmed first human case - to show conclusively how it started. That may never be known, but the scientists who wrote this latest report want to clarify the available evidence and what it means.</p>\r\n\r\n<p>They have published what is called a pre-print, meaning it has not yet been reviewed and edited by other experts. And its key conclusion, says Prof Robertson, is that this virus&#39;s biological properties closely match viruses that have been found in nature - in bats.</p>\r\n\r\n<p>This outbreak, he adds, looks very much like the emergence of the first Sars back in 2003.</p>\r\n\r\n<p>In that case, the virus was isolated in a widely-traded animal called a palm civet. Over the next few years researchers discovered very closely related viruses in bats, and in 2017,&nbsp;<a href=\"https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006698\">the ancestor of the Sars virus was found in a population of horseshoe bats in southern China.</a></p>\r\n\r\n<p>The outbreak was essentially tracked and traced back to the wild animal it came from - deadly mystery solved.</p>\r\n\r\n<p>&quot;The only difference [with Covid] is that we&#39;ve not found the intermediate species this time,&quot; Prof Robertson says.</p>\r\n\r\n<p>&quot;But the bat virus link and the strong association to markets selling live animals are both there</p>",
+      "category":10,
+      "preview":"previews/2021/07/10/_111827420_hi059295836.jpg",
+      "created_at":"2021-07-10",
+      "updated_at":"2021-07-10",
+      "views":1,
+      "slug":"covid-origins-scientists-weigh-up-evidence-over-viruss-ori"
+    }
+  },
+  {
+    "model":"aznews_app.news",
+    "pk":8,
+    "fields":{
+      "title":"Nature: Backyard moth spotting rises during lockdown",
+      "content":"<p><strong>Lockdown sparked a surge in interest in moths, with a rise in rare species spotted last year.</strong></p>\r\n\r\n<p>Sightings were up by about a third - and many counties across the UK recorded species new to their area.</p>\r\n\r\n<p>Experts are heartened by a new found fascination for the insects, which they say are ecologically important but underappreciated and under threat.</p>\r\n\r\n<p>They say July is the perfect month to find moths - and are calling for the public to go in search of them.</p>\r\n\r\n<p>Mark Tunmore, editor of Atropos, the journal for butterfly, moth and dragonfly enthusiasts, said all the evidence points to a surge of interest during lockdown.</p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://www.bbc.co.uk/news/science-environment-42636275\">Butterfly origins pushed back in time</a></li>\r\n\t<li><a href=\"https://www.bbc.co.uk/news/uk-england-bristol-57578751\">Rare moth count under way at only England site</a></li>\r\n\t<li><a href=\"https://www.bbc.com/newsround/56718406\">Protecting butterflies can boost mental health</a></li>\r\n</ul>\r\n\r\n<p>&quot;It&#39;s not surprising in many ways, because moth trapping is an ideal activity for the garden,&quot; he said.</p>\r\n\r\n<p>&quot;All you need is a moth trap, which is something you can construct yourself or buy from specialist dealers, and once you&#39;ve got that, you can run it in your garden and the moths come to you.&quot;</p>\r\n\r\n<p>Data from the National Moth Recording Scheme suggests there was a rise of around a third in the numbers of people submitting sightings of moth species in 2020, while sales of moth traps also rose.</p>\r\n\r\n<p>In Cheshire, seven species new to the county were recorded in 2020, including Light Feathered Rustic and Beautiful Marbled. Several species new to Cornwall were spotted in the county, and it was also a record year for numbers of some scarce migrant species such as Crimson Speckled, Slender Burnished Brass and Scar Bank Gem.</p>\r\n\r\n<p>In Yorkshire, the number of annual moth records submitted rose by around a quarter in 2020. There was also a surge in interest in moth hunting in Shetland, with four species new to the islands recorded last year.</p>\r\n\r\n<p>With many people desperate to find things to do in their own backyard during lockdown, moth trapping provided a distraction and interest, Mark Tunmore said.</p>\r\n\r\n<p>&quot;It&#39;s a whole new world once people start looking at moths and they&#39;re amazed by what&#39;s in their garden,&quot; he explained. &quot;Even in a very simple garden you can have dozens or hundreds of species, potentially, recorded over a long period of time.&quot;</p>",
+      "category":10,
+      "preview":"previews/2021/07/10/_119289931_scarlettiger1_bobeade.jpg",
+      "created_at":"2021-07-10",
+      "updated_at":"2021-07-10",
+      "views":540,
+      "slug":"nature-backyard-moth-spotting-rises-during-lockdown"
+    }
+  },
+  {
+    "model":"aznews_app.news",
+    "pk":9,
+    "fields":{
+      "title":"Pollution-eating car shown off at Goodwood Festival",
+      "content":"<p><strong>A car that has been designed to strip the air of pollution as it drives along has been shown off at the Goodwood Festival of Speed.</strong></p>\r\n\r\n<p>Created by British designer Thomas Heatherwick, it is hoped the Airo will go into production in China in 2023, with plans to make a million of them.</p>\r\n\r\n<p>The radical design is intended to address not only the pollution issue, but also help solve the &quot;space crisis&quot;.</p>\r\n\r\n<p>Critics are not convinced it can ever be more than a concept car.</p>\r\n\r\n<p>Despite designing London&#39;s new version of the iconic Routemaster bus, Mr Heatherwick is better known for architectural projects such as Google&#39;s headquarters in California and London.</p>\r\n\r\n<p>He told the BBC that while he had never designed a car before, he was intrigued by the brief.</p>\r\n\r\n<p>&quot;When I grew up design values were manifested through cars, whether it be the [Ford] Sierra in the 1980s, the [Fiat]Panda, some major ideas were emerging through cars.</p>\r\n\r\n<p>&quot;When we were approached by IM Motors in China, we said that we were not car designers and they said &#39;that is why we want you&#39;.&quot;</p>\r\n\r\n<p>The car - which was first unveiled at the Shanghai car show in April - has a large glass roof, and the interior is designed to look like a room, with adjustable chairs that can be turned into beds, and a central table intended for meetings or meals.</p>\r\n\r\n<p>The steering wheel is hidden in the dashboard and the exterior is textured, with a series of ripples or ridges.</p>\r\n\r\n<p>&quot;Car manufacturers are falling over themselves to make electric cars, but a new electric car shouldn&#39;t just be another one with a different look,&quot; said Mr Heatherwick.</p>\r\n\r\n<p>As well as wanting to reflect the flow of air over the car in the ridged exterior, the front grill will be fitted with an air filter which will &quot;collect a tennis ball worth of particulate matter per year&quot;, he told the BBC.</p>\r\n\r\n<p>&quot;That might not sound a lot but think of a tennis ball in your lungs, that is contributing to cleaning the air, and with a million vehicles in China alone that adds up.&quot;</p>\r\n\r\n<p>Incorporating this technology is &quot;the next stage of development&quot; he said. It is planned for it to have both autonomous and driver-controlled modes.</p>\r\n\r\n<p>Peter Wells, professor of business and sustainability at the Cardiff Business School&#39;s centre for automotive industry research, told the BBC: &quot;I cannot see how this car can make any significant contribution to resolving the many problems associated with car ownership and use.</p>\r\n\r\n<p>&quot;The contribution of this car to cleaning the air in our polluted urban centres would be so small as to be impossible to measure.</p>\r\n\r\n<p>&quot;This is immediately evident if you compare the volume of air likely to pass through the filtration system of the car with the volume of air in total.&quot;</p>\r\n\r\n<h2>New room?</h2>\r\n\r\n<p>The second big idea behind the car&#39;s design is as an alternative space for owners to use.</p>\r\n\r\n<p>&quot;Covid has raised the space crisis. Many of us are living in flats and houses and need more space, an office or a study,&quot; said Mr Heatherwick.</p>\r\n\r\n<p>With one billion cars in the world which are used for roughly only 10% of the time, there is scope for them to become &quot;valuable real-estate&quot;, he said.</p>\r\n\r\n<p>He was inspired by first-class airline seats, which are used &quot;to sleep, eat, entertain and work&quot;.</p>\r\n\r\n<p>&quot;The car becomes a communal space for the time when it is not driving.&quot;</p>\r\n\r\n<p>The vehicle will be priced at around &pound;40,000 - something Mr Heatherwick described as &quot;not crazy luxury&quot;.</p>",
+      "category":11,
+      "preview":"previews/2021/07/10/_119326879_gettyimages-1232472650.jpg",
+      "created_at":"2021-07-10",
+      "updated_at":"2021-07-16",
+      "views":1353,
+      "slug":"pollution-eating-car-shown-off-at-goodwood-festival"
+    }
+  },
+  {
+    "model":"aznews_app.category",
+    "pk":1,
+    "fields":{
+      "title":"Sports",
+      "slug":"sports"
+    }
+  },
+  {
+    "model":"aznews_app.category",
+    "pk":2,
+    "fields":{
+      "title":"Lifestyle",
+      "slug":"lifestyle"
+    }
+  },
+  {
+    "model":"aznews_app.category",
+    "pk":3,
+    "fields":{
+      "title":"Travel",
+      "slug":"travel"
+    }
+  },
+  {
+    "model":"aznews_app.category",
+    "pk":4,
+    "fields":{
+      "title":"Fashion",
+      "slug":"fashion"
+    }
+  },
+  {
+    "model":"aznews_app.category",
+    "pk":5,
+    "fields":{
+      "title":"Technology",
+      "slug":"technology"
+    }
+  },
+  {
+    "model":"aznews_app.category",
+    "pk":6,
+    "fields":{
+      "title":"Concert",
+      "slug":"concert"
+    }
+  },
+  {
+    "model":"aznews_app.category",
+    "pk":9,
+    "fields":{
+      "title":"Business",
+      "slug":"business"
+    }
+  },
+  {
+    "model":"aznews_app.category",
+    "pk":10,
+    "fields":{
+      "title":"Science",
+      "slug":"science"
+    }
+  },
+  {
+    "model":"aznews_app.category",
+    "pk":11,
+    "fields":{
+      "title":"Tech",
+      "slug":"tech"
+    }
+  }
+]
