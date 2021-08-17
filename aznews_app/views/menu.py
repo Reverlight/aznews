@@ -14,9 +14,6 @@ def news_page(request):
     return render(request, 'aznews_app/menu_pages/news.html', context)
 
 
-def about_page(request):
-    return render(request, 'aznews_app/menu_pages/about.html')
-
 
 def get_recent_news_by_categories():
     categories = Category.objects \
