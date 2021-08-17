@@ -9,6 +9,15 @@ It's commit clear version of my another repository https://github.com/Reverlight
 * Git clone https://github.com/Reverlight/aznews_project.git
 * ``pip install -r requirements``
 * Add your PostGreSQL credentials in settings.py (databases) 
+* Create credentials.py file in root folder. Provide SECRET_KEY_DJANGO and OPEN_WEATHER_MAP_API_KEY like following:
+
+  SECRET_KEY_DJANGO = 'YOUR_DJANGO_KEY'
+
+  OPEN_WEATHER_MAP_API_KEY = 'YOUR_API_KEY'
+
+
+* LOOK FOR WEATHER API HERE:
+https://openweathermap.org/appid
 
 ## Optional
 * Add initial news: ``python manage.py loaddata aznews_app/fixtures/data.json``
