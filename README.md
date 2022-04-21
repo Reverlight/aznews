@@ -1,7 +1,5 @@
 # aznews
 
-It's commit clear version of my another repository https://github.com/Reverlight/aznews
-
 ## How to install
 
 * Install python 3
